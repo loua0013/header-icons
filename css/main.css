@@ -44,7 +44,6 @@ header img {
 header ul {
   display: flex;
   justify-content: space-around;
-  margin: .5em;
   padding: 0;
   margin: 0;
   list-style: none;
